@@ -1,3 +1,5 @@
+Desafio proposto:
+
 Para desenvolvermos uma aplicação, é necessário fazermos um levantamento de requisitos, ou seja, escrever quais as necessidades e objetivos que ela deverá atingir. Com isso, estamos construindo o domínio da aplicação, que define para que estamos criando esta solução.
 
 Você trabalha no setor de informática em uma escola que ainda não possui uma gestão informatizada, e foi encarregado de criar o cadastro de alunos.

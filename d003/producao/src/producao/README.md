@@ -11,3 +11,6 @@ O código da classe “Producao” atual está assim:
 </p>
 <br>
     <img src="https://statics-marketplace.plataforma.grupoa.education/sagah/e6545dd6-d05e-4fc0-8929-c0ca43f7aca7/b439b2e7-97c4-4371-bb10-3ccda77c18c6.jpg" alt="">
+    <h2 align="center"> :computer: Tecnologia utilizada </h2>
+<p>JAVA</p>
+<br>

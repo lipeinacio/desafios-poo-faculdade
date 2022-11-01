@@ -1,4 +1,4 @@
-<h1> Projetando Clases</h1>
+<h1> Projetando Classes</h1>
 
 <p>Projetar uma classe pode ser um bom desafio, mas quando seguimos algumas regras e padrões, nosso trabalho se torna menos árduo.
 
